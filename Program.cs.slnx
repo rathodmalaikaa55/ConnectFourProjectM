@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Board.cs" />
+    <File Path="GameController.cs" />
+    <File Path="HumanPlayer.cs" />
+    <File Path="Player.cs" />
+  </Folder>
+  <Project Path="Program.cs.csproj" />
+</Solution>
